@@ -1,0 +1,98 @@
+:root {
+    --primary-color: #ff5a5f;
+    --secondary-color: #333;
+    --bg-color: #f7f7f7;
+    --text-color: #555;
+    --heading-font: 'Catamaran', sans-serif;
+    --body-font: 'Catamaran', sans-serif;
+}
+
+body {
+    font-family: var;
+    margin: 0;
+    padding: 0;
+    color: var;
+}
+
+.header-area {
+    background: #fff;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand img {
+    width: 80px;
+}
+
+.hero {
+    background: url('img/home-grid-new-slide-4.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-family: var;
+    font-size: 48px;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 24px;
+}
+
+.hero button {
+    background: var;
+    border: none;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.intro, .services, .cta, .clients {
+    padding: 50px 0;
+}
+
+.intro h3, .services h3, .cta h2 {
+    font-family: var;
+    color: var;
+}
+
+.intro p, .services p, .cta p {
+    font-family: var;
+}
+
+.intro .intro-item, .services .service-item, .clients .client-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cta {
+    background: var;
+    text-align: center;
+}
+
+.cta button {
+    background: var;
+    border: none;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+footer {
+    background: var;
+    color: #777;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.brands img {
+    max-width: 100px;
+    margin: 0 15px;
+}
+
